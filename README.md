@@ -1,16 +1,13 @@
-### Hi there 👋
+## 👋 Hi there
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,ts,js,lua,cs,mysql,mongodb" width="400" />
+</a>
 
-<!--
-**tamilpp25/tamilpp25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 I’m tamilpp25, A Minecraft plugin developer and a reverse engineer \
+👀 I reverse enginner games in my free time \
+🌱 Currently planning to learn C, C++ \
+🌏 Contact me on [Discord](https://discord.com/users/274713240137891840) if you want to ask anything :)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏢 Organizations
+  - [Serenia](https://github.com/Serenia-RPG)
+  - [LustreCrew](https://github.com/LustreCrew)
