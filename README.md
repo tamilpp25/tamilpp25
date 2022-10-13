@@ -9,5 +9,5 @@
 🌏 Contact me on [Discord](https://discord.com/users/274713240137891840) if you want to ask anything :)
 
 ## 🏢 Organizations
-  - [Serenia](https://github.com/Serenia-RPG)
+  - [MoonlightPS](https://github.com/MoonlightPS)
   - [LustreCrew](https://github.com/LustreCrew)
